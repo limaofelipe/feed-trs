@@ -34,7 +34,7 @@ export function Post({ post }:PostProps) {
 
     //Comment List
     const [comments, setComments] = useState([
-        'Post muito bacana!'        
+        "Parabéns"     
     ])
 
     const [newCommentText, setNewCommentText] = useState("")
