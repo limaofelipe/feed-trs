@@ -6,10 +6,6 @@ Esse Projeto foi desenvolvido com ReactJS + Typescript.
 
 
 <p align="center">
-    <a href="https://github.com/limaofelipe/ign-feed">Para acessar o projeto com ReactJS</a>
-</p>
-
-<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -35,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Feed é um portal onde Pessoas compartilham seu sucesso e desafios com sua rede de contatos.
 
-- [Acesse o projeto finalizado, online](https://limaofelipe.github.io/)
+- [Acesse o projeto finalizado, online](https://ignfeed.netlify.app)
 
 ## 🔖 Layout
 
