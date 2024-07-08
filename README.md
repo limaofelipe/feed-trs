@@ -1,4 +1,4 @@
-<h1 align="center"> Feed </h1>
+<h1 align="center"> IGN Feed </h1>
 
 <p align="center">
 O Feed é um portal onde Pessoas compartilham seu sucesso e desafios com sua rede de contatos.
