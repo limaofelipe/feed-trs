@@ -1,7 +1,7 @@
 <h1 align="center"> Feed </h1>
 
 <p align="center">
-O Feed é um portal one Pessoas compartilham seu sucesso e desafios com sua rede de contatos.
+O Feed é um portal onde Pessoas compartilham seu sucesso e desafios com sua rede de contatos.
 Esse Projeto foi desenvolvido com ReactJS + Typescript.
 
 
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Feed é um portal one Pessoas compartilham seu sucesso e desafios com sua rede de contatos.
+O Feed é um portal onde Pessoas compartilham seu sucesso e desafios com sua rede de contatos.
 
 - [Acesse o projeto finalizado, online](https://limaofelipe.github.io/)
 
