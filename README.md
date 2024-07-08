@@ -5,8 +5,9 @@ O Feed é um portal one Pessoas compartilham seu sucesso e desafios com sua rede
 Esse Projeto foi desenvolvido com ReactJS + Typescript.
 
 
-- [Para acessar o projeto com somente ReactJS nesse link](https://github.com/limaofelipe/ign-feed)
-
+<p align="center">
+    <a href="https://github.com/limaofelipe/ign-feed">Para acessar o projeto com ReactJS</a>
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
